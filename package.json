@@ -1,0 +1,18 @@
+{
+  "name": "AsyncPuppeteer",
+  "version": "1.0.0",
+  "main": "test_connect_script.js",
+  "scripts": {
+    "start": "node test_connect_script.js"
+  },
+  "author": "Vikash Loomba",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chrome-launch": "^1.1.4",
+    "chrome-launcher": "^0.12.0",
+    "puppeteer": "^2.0.0",
+    "puppeteer-extra": "^3.1.9",
+    "puppeteer-extra-plugin-stealth": "^2.4.9"
+  }
+}
